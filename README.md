@@ -2,7 +2,9 @@
 - 👀 I’m interested in photography, designing
 - 🌱 I’m currently learning dsa and oopj in python
 - 💞️ I’m looking to collaborate on ml/ai
-- 📫 How to reach me make changes in repos
+- 📫 How to reach me here is my linkedin ID www.linkedin.com/in/
+muskan-raj-832b06247
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i have same username everywhere
 

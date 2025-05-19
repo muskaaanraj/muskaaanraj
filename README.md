@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muskaaanraj
 - 👀 I’m interested in photography, designing
-- 🌱 I’m currently learning dsa and oopj in python
+- 🌱 I’m currently learning dsa and oop in python
 - 💞️ I’m looking to collaborate on ml/ai
 - 📫 How to reach me here is my linkedin ID www.linkedin.com/in/
 muskan-raj-832b06247
